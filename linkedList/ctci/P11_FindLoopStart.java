@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class P11_FindLoopStart {
 
     private static Node find(Node<Integer> node) {
